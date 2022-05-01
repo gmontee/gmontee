@@ -21,5 +21,6 @@
   
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
+  <p></p>
   <img src="https://komarev.com/ghpvc/?username=gmontee&style=flat-square&color=blue" alt=""/>
 </div>
